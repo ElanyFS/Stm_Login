@@ -1,0 +1,17 @@
+{
+    "name": "ellan/stm_de_autenticacao_login",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "public\\": "public/",
+            "config\\": "config/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elany Souza",
+            "email": "ellanysouza08@gmail.com"
+        }
+    ],
+    "require": {}
+}
