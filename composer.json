@@ -5,7 +5,12 @@
             "app\\": "app/",
             "public\\": "public/",
             "config\\": "config/"
-        }
+        },
+        "files": [
+            "app/router/router.php",
+            "app/router/coreController.php",
+            "app/helpers/constants.php"
+        ]
     },
     "authors": [
         {
