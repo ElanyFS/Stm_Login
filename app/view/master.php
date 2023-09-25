@@ -12,9 +12,9 @@
 </head>
 
 <body>
-    <div class="container">
+    <!-- <div class=""> -->
         <?= $this->section('content') ?>
-    </div>
+    <!-- </div> -->
 </body>
 
 </html>
